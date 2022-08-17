@@ -14,12 +14,21 @@ This repo may little bit long and may grow as I learn. Here are the section link
 
 [Books](#books)
 
+[Courses](#courses)
+
 [Blogs](#blogs)
 
 [Language Specific Guides](#language-specific-guides)
+
 - [OCaml](#ocaml)
 
 ## Books
+
+## Courses
+
+[Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/nand2tetris2)
+
+In this project-centered course you will build a modern software hierarchy, designed to enable the translation and execution of object-based, high-level languages on a bare-bone computer hardware platform. In particular, you will implement a virtual machine and a compiler for a simple, Java-like programming language, and you will develop a basic operating system that closes gaps between the high-level language and the underlying hardware platform.
 
 ## Blogs
 
