@@ -34,7 +34,9 @@ This repo may little bit long and may grow as I learn. Here are the section link
 
 In this project-centered course you will build a modern software hierarchy, designed to enable the translation and execution of object-based, high-level languages on a bare-bone computer hardware platform. In particular, you will implement a virtual machine and a compiler for a simple, Java-like programming language, and you will develop a basic operating system that closes gaps between the high-level language and the underlying hardware platform.
 
-[ Compilers SOE-YCSCS1 ](https://online.stanford.edu/courses/soe-ycscs1-compilers)
+[ Compilers By Stanford SOE-YCSCS1 ](https://online.stanford.edu/courses/soe-ycscs1-compilers)
+
+This self-paced course will discuss the major ideas used today in the implementation of programming language compilers, including lexical analysis, parsing, syntax-directed translation, abstract syntax trees, types and type checking, intermediate languages, dataflow analysis, program optimization, code generation, and runtime systems.
 
 
 ## Blogs
