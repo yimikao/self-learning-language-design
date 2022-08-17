@@ -6,8 +6,12 @@
 
 I'm an undergraduate student majoring in Computer Science. I fell in love with programming language design after a Automata Theory and Compiler Construction course. This repo will be a collection of resources for my exploration & learning about the fields.
 
-If you find this repo helpful for you, your 🌟 is the best gift for me :)
+If you find this repo helpful, your 🌟 is the best gift for me :)
 
 ## Overview
 
 This repo may little bit long and may grow as I learn. Here are the section links. After each section, there will be a ↩ which can link you back into Overview.
+
+[Books](#books)
+
+[Blogs](#blogs)
