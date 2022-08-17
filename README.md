@@ -28,7 +28,7 @@ This repo may little bit long and may grow as I learn. Here are the section link
 
 ## Courses
 
-### Compiler
+### Compilers
 
 [Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course)](https://www.coursera.org/learn/nand2tetris2)
 
