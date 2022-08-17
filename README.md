@@ -15,3 +15,20 @@ This repo may little bit long and may grow as I learn. Here are the section link
 [Books](#books)
 
 [Blogs](#blogs)
+
+[Language Specific Guides](#language-specific-guides)
+- [OCaml](#ocaml)
+
+## Books
+
+## Blogs
+
+## Language Specific Guides
+
+### OCaml
+
+[OCaml learning materials recommendation for beginners, from a beginner](https://jiaek.wordpress.com/2022/05/29/ocaml-learning-materials-for-beginners-from-a-beginner/)
+
+A guide and collection of resources curated by an ex-outreachy intern at OCaml
+
+[↩](#overview)
