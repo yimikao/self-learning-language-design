@@ -26,7 +26,23 @@ This repo may little bit long and may grow as I learn. Here are the section link
 
 ## Books
 
+[Programming and Programming Languages](https://papl.cs.brown.edu/2020/)
 
+[Old version of book above](http://cs.brown.edu/courses/cs173/2012/book/higher-order-functions.html#%28part._.Functions_as_.Expressions_and_.Values%29)
+
+[Videos on Old Vesion of bookabove](http://cs.brown.edu/courses/cs173/2012/Videos/)
+
+[An introduction to language-oriented programming using Racket](https://beautifulracket.com/)
+
+[Creating an LLVM Backend for the Cpu0 Architecture](https://jonathan2251.github.io/lbd/)
+
+[A Nanopass Framework for Compiler Education](https://legacy.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf)
+
+[An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
+
+[Build your own lisp](https://buildyourownlisp.com/contents)
+
+[Implementing functional languages: a tutorial](https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial/)
 
 ## Courses
 
@@ -44,6 +60,16 @@ This self-paced course will discuss the major ideas used today in the implementa
 ## Blogs
 
 [Creating a Transpiler](https://tomassetti.me/transpiling-languages-from-vba-to-vb-net/)
+
+[Let’s Build A Simple Interpreter in Python](https://ruslanspivak.com/lsbasi-part1/)
+
+[Guide on How to write a very basic compiler](https://softwareengineering.stackexchange.com/questions/165543/how-to-write-a-very-basic-compiler/165558#165558)
+
+[Creating Languages in Racket](https://queue.acm.org/detail.cfm?id=2068896)
+
+[Make a language in one hour with Racket: stacker](https://beautifulracket.com/stacker/the-reader.html)
+
+[Writing Your Own Toy Compiler Using Flex, Bison and LLVM](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
 
 ## Language Specific Guides
 
