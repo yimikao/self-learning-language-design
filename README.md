@@ -59,6 +59,8 @@ This self-paced course will discuss the major ideas used today in the implementa
 
 ## Blogs
 
+[Lambda the ultimate forum archive](https://web.archive.org/web/20220318053046/http://lambda-the-ultimate.org/)
+
 [Creating a Transpiler](https://tomassetti.me/transpiling-languages-from-vba-to-vb-net/)
 
 [Let’s Build A Simple Interpreter in Python](https://ruslanspivak.com/lsbasi-part1/)
