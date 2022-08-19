@@ -26,6 +26,8 @@ This repo may little bit long and may grow as I learn. Here are the section link
 
 ## Books
 
+[Let's Build a Compiler, by Jack Crenshaw ](https://compilers.iecc.com/crenshaw/)
+
 [Programming and Programming Languages](https://papl.cs.brown.edu/2020/)
 
 [Old version of book above](http://cs.brown.edu/courses/cs173/2012/book/higher-order-functions.html#%28part._.Functions_as_.Expressions_and_.Values%29)
@@ -59,7 +61,13 @@ This self-paced course will discuss the major ideas used today in the implementa
 
 ## Blogs
 
-[How easy is it to learn a language](https://tratt.net/laurie/blog/2007/how_difficult_is_it_to_write_a_compiler.html)
+[Want to Write a Compiler? Just Read These Two Papers](https://prog21.dadgum.com/30.html)
+
+[Adavnced Topics in Compilation Matt Might](https://matt.might.net/teaching/fall-2009-advanced-compilation/)
+
+[How easy is it to write a compiler](https://tratt.net/laurie/blog/2007/how_difficult_is_it_to_write_a_compiler.html)
+
+[You're good enough to write a compiler](https://perlgeek.de/blog-en.cgi/perl-6/you-are-good-enough.html)
 
 [Lambda the ultimate forum archive](https://web.archive.org/web/20220318053046/http://lambda-the-ultimate.org/)
 
