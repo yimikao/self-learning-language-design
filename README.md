@@ -59,6 +59,8 @@ This self-paced course will discuss the major ideas used today in the implementa
 
 ## Blogs
 
+[How easy is it to learn a language](https://tratt.net/laurie/blog/2007/how_difficult_is_it_to_write_a_compiler.html)
+
 [Lambda the ultimate forum archive](https://web.archive.org/web/20220318053046/http://lambda-the-ultimate.org/)
 
 [Creating a Transpiler](https://tomassetti.me/transpiling-languages-from-vba-to-vb-net/)
