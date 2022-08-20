@@ -61,6 +61,8 @@ This self-paced course will discuss the major ideas used today in the implementa
 
 ## Blogs
 
+[Compiling Scheme to C and Java Series by Matt Might](https://matt.might.net/articles/compiling-scheme-to-c/)
+
 [Want to Write a Compiler? Just Read These Two Papers](https://prog21.dadgum.com/30.html)
 
 [Adavnced Topics in Compilation Matt Might](https://matt.might.net/teaching/fall-2009-advanced-compilation/)
